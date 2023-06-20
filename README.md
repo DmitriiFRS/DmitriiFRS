@@ -1,4 +1,4 @@
-<h1 align='center'>Привет! Меня зовут Дмитрий</h1>
+<h1 font-size='15px' align='center'>Привет! Меня зовут Дмитрий</h1>
 
 <!--
 **DmitriiFRS/DmitriiFRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
