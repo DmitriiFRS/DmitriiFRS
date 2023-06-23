@@ -1,4 +1,4 @@
-# Привет!
+# Hello world!
 ## Меня зовут Дмитрий, я начинающий веб-разработчик, начал заниматься разработкой с 2022 года
 ## Мой стек технологий
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=red&color=012159)
