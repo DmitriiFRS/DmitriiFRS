@@ -14,3 +14,12 @@
 #### Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lraytsx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriifrs@gmail.com)
+***
+### Codewars
+![Codewars](https://www.codewars.com/users/Leengray/badges/large)
+***
+### Статистика
+<div>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=DmitriiFRS&theme=dark&background=000000" alt="webDev's Github stats" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DmitriiFRS&layout=compact&theme=vision-friendly-dark" />
+</div>
