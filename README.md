@@ -1,4 +1,4 @@
-# Привет мир!
+# Привет мир! 👋
 #### Меня зовут Дмитрий, я начинающий frontend-разработчик, начал заниматься разработкой с 2022 года
 ***
 #### Мой стек технологий
@@ -19,6 +19,7 @@
 ![Codewars](https://www.codewars.com/users/Leengray/badges/large)
 ***
 ### Статистика
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriiFRS)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <table>
   <tr>
     <td>
