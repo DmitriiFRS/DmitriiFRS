@@ -19,7 +19,7 @@
 ![Codewars](https://www.codewars.com/users/Leengray/badges/large)
 ***
 ### Статистика
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriiFRS)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DmitriiFRS&theme=tokyo-night)](https://github.com/DmitriiFRS/github-readme-activity-graph)
 <table>
   <tr>
     <td>
