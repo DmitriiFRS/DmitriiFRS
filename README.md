@@ -2,6 +2,9 @@
 ### Меня зовут Дмитрий, я Fullstack разработчик с уклоном во Frontend. Работаю в основном с Next.js, так же время от времени с Node.js и его фреймворком Express. Разрабатываю интернет-магазины, сайты-каталоги разной сложности. Так же занимаюсь развертыванием и поддержкой приложений на облачных сервисах и хостингах. На данный момент занимаюсь углубленным изучением Backend разработки. Мои проекты:
 ### https://cultimilano.uz/
 ### https://amarepharm.com/
+### https://parfumgallery.uz/
+### https://baholding.uz/
+### https://galassia.uz/
 ***
 #### Мой стек технологий
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
