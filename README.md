@@ -6,7 +6,9 @@
 ### https://baholding.uz
 ### https://galassia.uz
 ### https://tcl-aircond.uz
+### В разработке большая онлайн-платформа по поиску недвижимости в Узбекистане на стэке Next.js/Nest.js
 ***
+
 #### Мой стек технологий
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
