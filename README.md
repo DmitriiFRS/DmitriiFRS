@@ -1,10 +1,11 @@
 # Привет мир! 👋
 ### Меня зовут Дмитрий, я Fullstack разработчик с уклоном во Frontend (Middle Frontend, Junior Backend). Работаю в основном с Next.js, и с Nest.js. Разрабатываю интернет-магазины, сайты-каталоги, онлайн-платформы разной сложности. Так же занимаюсь развертыванием и поддержкой приложений на облачных сервисах и хостингах. На данный момент занимаюсь углубленным изучением Backend разработки. Мои проекты:
-### https://cultimilano.uz/
-### https://amarepharm.com/
-### https://parfumgallery.uz/
-### https://baholding.uz/
-### https://galassia.uz/
+### https://cultimilano.uz
+### https://amarepharm.com
+### https://parfumgallery.uz
+### https://baholding.uz
+### https://galassia.uz
+### https://tcl-aircond.uz
 ***
 #### Мой стек технологий
 ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
