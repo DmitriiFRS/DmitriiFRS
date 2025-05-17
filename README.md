@@ -7,6 +7,7 @@
 ### https://galassia.uz
 ### https://tcl-aircond.uz
 ### https://theagency-global.com
+### https://pg.theagency.uz | Редизайн parfumgallery, пока не в публичном доступе
 ### В разработке большая онлайн-платформа по поиску недвижимости в Узбекистане на стэке Next.js/Nest.js. Можно ознакомиться пока только с исходным кодом (movein-web)
 ***
 
