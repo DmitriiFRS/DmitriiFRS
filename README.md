@@ -6,6 +6,7 @@
 ### https://baholding.uz
 ### https://galassia.uz
 ### https://tcl-aircond.uz
+### https://theagency-global.com
 ### В разработке большая онлайн-платформа по поиску недвижимости в Узбекистане на стэке Next.js/Nest.js. Можно ознакомиться пока только с исходным кодом (movein-web)
 ***
 
