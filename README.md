@@ -1,41 +1,58 @@
-# Привет мир! 👋
-### Меня зовут Дмитрий, я Fullstack разработчик с уклоном во Frontend (Middle Frontend, Junior+ Backend). Работаю в основном с Next.js, и с Nest.js. Разрабатываю интернет-магазины, сайты-каталоги, онлайн-платформы разной сложности. Так же занимаюсь развертыванием и поддержкой приложений на облачных сервисах и хостингах. На данный момент занимаюсь углубленным изучением Backend разработки и очень активно развиваюсь. Мои проекты:
-### https://cultimilano.uz
-### https://amarepharm.com
-### https://parfumgallery.uz
-### https://baholding.uz
-### https://galassia.uz
-### https://tcl-aircond.uz
-### https://theagency-global.com
-### https://pg.theagency.uz | Редизайн parfumgallery, пока не в публичном доступе
-### В разработке большая онлайн-платформа по поиску недвижимости в Узбекистане на стэке Next.js/Nest.js.
-***
+# Привет, я Дмитрий! 👋
 
-#### Мой стек технологий
-![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+**Fullstack Developer (TypeScript | Next.js | Nest.js)**
+
+Я разработчик с коммерческим опытом 3+ лет. Специализируюсь на создании масштабируемых веб-приложений "под ключ": от проектирования баз данных (Prisma, SQL) до сложных реактивных интерфейсов (React/Next.js). Особое внимание уделяю архитектуре, оптимизации производительности и чистоте кода.
+
+Имею глубокую доменную экспертизу в сферах: **Logistics**, **E-commerce (High-load)** и **Real Estate**.
+
+---
+
+### 🚀 Ключевые проекты
+
+В связи с NDA большинство проектов находятся в приватных репозиториях, но вот успешные продукты, которые работают в продакшене благодаря моему коду:
+
+* **Ethnologistics Admin** — Разработка международной платформы для управления логистикой (BFF паттерн, Next.js, Tailwind). Реализовал сложную бизнес-логику на клиенте (Комплексные формы, интерактивные дашборды, высокопроизводительные таблицы).
+* **[ParfumGallery.uz](https://parfumgallery.uz/)** — Крупный e-commerce парфюмерии. Провел глубокую оптимизацию (ускорил загрузку фронтенда на 45%, оптимизировал SQL запросы), разработал систему массового импорта и Telegram-интеграции (Express.js + React).
+* **[Pharmadvisor.uz](https://pharmadvisor.uz/)** — Проектирование и разработка архитектуры с нуля (Nest.js + Prisma ORM + Next.js). Кастомная аутентификация, BFF, Админ-панель, и использование AI-инструментов для кратного ускорения разработки MVP.
+* **Другие продукты:** [amarepharm.com](https://amarepharm.com), [galassia.uz](https://galassia.uz), [tcl-aircond.uz](https://tcl-aircond.uz).
+
+### 🛠 Мой стек технологий
+
+**Frontend:**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux_toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
-![Graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Expressjs](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+**Backend & Databases:**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&color=2d3748)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
+
+**DevOps & Tools:**
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
-***
+
+---
+
 #### Связаться со мной
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lraytsx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dmitrytsx)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmitriifrs@gmail.com)
 ***
 ### Codewars
