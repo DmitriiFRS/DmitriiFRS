@@ -13,7 +13,7 @@
 В связи с NDA большинство проектов находятся в приватных репозиториях, но вот успешные продукты, которые работают в продакшене благодаря моему коду:
 
 * **[Emly](https://github.com/DmitriiFRS/mily-api)** - Кроссплатформенный MVP-маркетплейс со встроенным мессенджером (API)
-* **[Ethnologistics ERP System](https://dashboard.ethnologistics.com/)** — Разработка ERP системы для управления логистикой (BFF паттерн, Next.js, Tailwind). Реализовал сложную бизнес-логику на клиенте (Комплексные формы, Аворизация с Refresh flow, интерактивные дашборды, высокопроизводительные таблицы, Систему ролей).
+* **[Ethnologistics ERP System](https://dashboard.ethnologistics.com/)** — Лично разработанная и успешно запущенная ERP система (Frontend) для управления логистикой (BFF паттерн, Next.js, Tailwind). Реализовал сложную бизнес-логику на клиенте (Комплексные формы, Аворизация с Refresh flow, интерактивные дашборды, высокопроизводительные таблицы, Систему ролей). Используется компанией Ethnologistics
 * **[ParfumGallery.uz](https://parfumgallery.uz/)** — Крупный e-commerce парфюмерии. Провел глубокую оптимизацию (ускорил загрузку фронтенда на 45%, оптимизировал SQL запросы), разработал систему массового импорта и Telegram-интеграции (Express.js + React).
 * **[Pharmadvisor.uz](https://pharmadvisor.uz/)** — Проектирование и разработка архитектуры с нуля (Nest.js + Prisma ORM + Next.js). Кастомная аутентификация, BFF, Админ-панель, и использование AI-инструментов для кратного ускорения разработки MVP.
 * **Другие продукты:** [amarepharm.com](https://amarepharm.com), [galassia.uz](https://galassia.uz), [tcl-aircond.uz](https://tcl-aircond.uz).
